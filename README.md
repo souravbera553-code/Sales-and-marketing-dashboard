@@ -32,8 +32,18 @@ The dashboard allows users to interact with slicers (Month, Agent, Category) and
 - 💰 Analyze revenue contribution per agent  
 - 📊 Identify peak months for sales  
 - ⏱️ Monitor average call duration  
-- 🎯 Compare actuals vs. targets  
-
+  
 ---
 
-## 📂 Project Structure
+## 🚀 How to Use
+1. Download the file:  
+2. Open in **Microsoft Excel (2016 or later)**.  
+3. Use the slicers on the right-hand side to filter data (by Month, Agent, Category).  
+4. KPIs and charts will update automatically.  
+---
+
+## 👤 Author
+**Your Name**  
+📧 Email:souravbera553@gmail.com 
+🌐 GitHub:https://github.com/souravbera553-code/
+ Linkedin: www.linkedin.com/in/sourav-bera-2aa26722b
